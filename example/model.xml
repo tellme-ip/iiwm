@@ -1,0 +1,16 @@
+<iiwm xmlns="http://purl.org/tellme/">
+  <tool id="hammer78">
+    <type>hammer</type>
+    <place>room42</place>
+    <property1>value</property1>
+    <property2>value1</property2>
+    <property2>value2</property2>
+    <property2>value3</property2>
+    <property3>
+      <property4>value4</property>
+    </property3>
+  </tool>
+  <place id="room42">
+    <type>room</type>
+  </place>
+</iiwm>
