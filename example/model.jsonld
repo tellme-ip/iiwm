@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "http://purl.org/tellme/",
+    "place": { "@type": "@id" }
+  },
+  "tool": [
+    {
+      "@id": "_:hammer78",
+      "@type": "hammer",
+      "place": "_:room42",
+      "property1": "value",
+      "property2": [ "value1", "value2", "value3" ],
+      "property3": { "property4": "value4" }
+    }
+   ],
+  "place": [
+    {
+      "@id": "_:room42",
+      "@type": "room"
+    }
+  ]
+}
