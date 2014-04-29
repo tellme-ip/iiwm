@@ -1,0 +1,16 @@
+{
+  "tool": {
+    "hammer78": {
+      "type": "hammer",
+      "place": "room42",
+      "property1": "value",
+      "property2": [ "value1", "value2", "value3" ],
+      "property3": { "property4": "value4" }
+    }
+   },
+  "place": {
+    "room42": {
+      "type": "room"
+    }
+  }
+}
